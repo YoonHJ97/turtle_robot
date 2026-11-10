@@ -1,0 +1,5 @@
+# C++ 빌드 결과물
+build/
+# Python 캐시
+__pycache__/
+*.pyc
