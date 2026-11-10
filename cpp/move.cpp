@@ -8,5 +8,7 @@ int main() {
     std::cout << name << " 출발!" << std::endl;
     std::cout << "속도 : " << speed << std::endl;
     std::cout << "전진" << std::endl;
+    std::cout << "우회전"
+              << std::endl;
     return 0;
 }
